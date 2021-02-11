@@ -1,153 +1,104 @@
-# Swargam Avinash
+># <center> Swargam Avinash </center>
+_Software Development Engineer based out of Hyderabad, India_ <br>
+[Email](mailto:avinashswargam.public.as@gmail.com) / [LinkedIn](https://www.linkedin.com/in/swargam-avinash-08287a12a/) / [GitHub](https://github.com/swargamavinash/)
 
-_Software engineer (and sometimes still a journalist) based in Berlin, Germany_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+>## 🧑‍💻 Technical Experience
 
-## 👩🏼‍💻 Technical Experience
+---
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Extending and maintaining a company-wide design system
-  - Building a new frontend component library
-  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
+**Software Development Engineer** @ [OYO Vacation Homes](https://www.traum-ferienwohnungen.de/) (Germany) _(Nov 2019 - Dec 2020)_ <br>
+Understand and Re-Design the system build around a monolith and breaking them into Micro-Services Architecture.
+  - Built an SEO Management Service which handles index or no-index status of all website pages. And generates refined sitemap for better
+  ranking in google search
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Software Development Engineer** @ [OYO Hotels and Homes](https://www.oyorooms.com/) (Hyderabad) _(Jul 2018 - Oct 2019)_ <br>
+- Built a Lead Scoring System that scores the Leads in Real-Time Based on the Google Analytics Data and Internal User Data Stored in SQL-DB. The Above Service is Being Used Internally for Lead Refinement.
+- Built a Gate-Way Service(In Spring Boot) which Exposes Rest APIs that are single point access to Our Ordering Application built on micro-services. Which In-turn talks with many other services using a Communication protocol (Thrift - 20 Times Faster than REST).
+- Built the Back-End Services(In Spring-Boot) for the Content-Application for the Team Which Uses the Elastic Search for Indexing it’s Data. It is now live in Play-Store and App-Store(Weddingz App).
+- Have built many APIs and Features which are related to communication(WhatsApp, Email), Data Migration Scripts(Python), etc.
 <br><br>
-
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's [documentation](https://meeshkan.com/docs/) and [technical blog](https://meeshkan.com/blog/)
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
-
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
-
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
     
-## 🗞 Journalism Experience
+>## 🤓 Technical Skills
 
-_This section only accounts for work done post-career change._
+---
+
+**Programming and Markup Languages**  
+- C, C++, Core Java, Python, Oracle SQL.
+- Basic HTML, CSS.<br>
+
+**Frameworks**
+- Spring-Boot , Quarkus, Django, Laravel <br>
+
+**DataBases and Others**
+- Elastic Search , Mongo-DB , PostgresDB, MYSQL-DB, Apache-Kafka.
+- Kibana, ELK, Grafana, Prometheus, AWS, Kubernetes.
 <br><br>
 
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/) _(Dec 2020 - Present)_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Writing regular features focused on sexual health and identity
-  - Reporting on events that are relevant to the sex tech community
-  - **_Selected articles:_**
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Sex Tech Hackers Will Get 'Touchy Feely' at Virtual Event This Weekend](https://futureofsex.net/sex-tech/sex-tech-hackers-will-get-touchy-feely-at-virtual-event-this-weekend/)
+>## 🧑‍🎓 Education
+
+---
+
+**Bachelor of Technology in Computer Science Engineering**<br>
+[Indian Institute of Technology Bhubaneswar.](www.iitbbs.ac.in) - Odhisa _(2014 - 2018)_ <br>
+**CGPA:** 7.7/10.00 <br>
+
+**Class-XII-Intermediate State Board AndraPradesh**<br>
+Sri Chaitanya Junior college. - Vijayawada _(2012 - 2014)_<br>
+**Percentage:** 95.7%
+
+**Class X(SSC Board)**<br>
+Century High Profile School. - Telangana _(Fall 2014)_<br>
+**CGPA:** 9.5/10
+
+>## 👨‍🎓 Internship Experience
+
+---
+
+**WEB APPLICATION DEVELOPER** _(May 2017 - July 2017)_<br>
+3rd year Internship,SIMSAM LLC,Hyderabad<br>
+Built web applications using frame works such as Django(Python frame work) which are live now. Added specific JavaScript functionalities to live websites.Had written Web Scraper and Spiders for websites to scrap data form them(Which are being used)<br>
+
+
+**COMPUTER VISION AND IMAGE PROCESSING** _(May 2016 - July 2016)_<br>
+2nd year Internship,IIST, Thiruvananthapuram.<br>
+Worked on Increasing the efficiency of Object Tracking Algorithm Mean Shift Tracker.<br> 
+**Guide:** Dr.Deepak Mishra,School of Avionic Sciences, IIST Thiruvananthapuram.<br>
+
+**INTERNET OF THINGS** _(Autumn, 2015)_<br>
+Seminar Presentation,Mini project.<br>
+Given a presentation on the recent development of IOT in 3rd semester.<br>
+
+>## 🧗‍♂️ Projects
+
+---
+
+**DESIGN AND IMPLEMENTATION OF A TESTBED FOR RESEARCH ON IOT** _(Autumn, 2017)_<br>
+Final year project.<br>
+Worked to build a test bed inside the campus using Wireless Sensors(WSN)such as Teslo-B motes,Sensor Tag and Arduino motes.And working on their Operating system.<br>
+**Guide:** Dr.Sudipta Saha,School of Electrical Sciences,IIT Bhubaneswar.<br>
+
+**WHOLE SALE MANAGEMENT DATABASE** _(Autumn, 2016)_<br>
+3rd year project.<br>
+Created a prototype for whole sale management database using MYSQL and Web Technologies(HTML,PHP,CSS).<br> 
+**Guide:** Dr.Padmalochan Bera ,School of Electrical Sciences,IIT bhubaneshwar.<br>
+
+**INTERNET OF THINGS** _(Autumn, 2015)_<br>
+Seminar Presentation,Mini project.<br>
+Given a presentation on the recent development of IOT in 3rd semester.<br>
+
+>## 🛌 Hobbies
+
+---
+
+Photography,Playing badminton,Listening to music etc...<br>
+
+>## 💬 Languages
+
+**Telugu**: Native <br>
+**English**: Proficient <br>
+**Hindi**: Proficient
 <br><br>
 
-**Freelance Writing** _(Mar 2020 - Present)_ <br>
-Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/) and [DZone](https://dzone.com/users/4255812/carolstran.html).
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [High Tech Sex](https://workwithcarolyn.com/words/high-tech-sex)
-    <br><br>
-
-## 📌 On The Side
-
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Aug 2017 - Present)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Building and continuously developing the course curriculum with a team of 4-8 other instructors
-  - Leading classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentoring students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Present)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selecting speakers and scheduling events
-  - Fostering an inclusive community and enforcing the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
-
-## 🎤 Public Speaking
-    
-### Recent Appearances
-
-- **Women TechMakers Vienna Conference** _(streamed on Aug 7, 2020)_
-<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=-qZCRHwnnbM)<br>
-
-- **DevDiscuss Podcast** _(released on Dec 9, 2020)_
-<br>[Improving Your Onboarding For Early Career Devs](https://dev.to/devteam/improving-your-onboarding-for-early-career-devs-with-carolyn-stransky-john-britton-2ec3)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
-## 🏆 Accomplishments
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
-
-## 💬 Languages
-
-**English**: Native <br>
-**German**: A2.2
-<br><br>
-
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+>**I hereby affirm that the information furnished is true according to the best of my knowledge.**
