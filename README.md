@@ -1,11 +1,11 @@
-># <center> Swargam Avinash </center>
+# <center> Swargam Avinash </center>
 _Software Development Engineer based out of Hyderabad, India_ <br>
 [Email](mailto:avinashswargam.public.as@gmail.com) / [LinkedIn](https://www.linkedin.com/in/swargam-avinash-08287a12a/) / [GitHub](https://github.com/swargamavinash/)
 
 
->## 🧑‍💻 Technical Experience
+## 🧑‍💻 Technical Experience
 
----
+
 
 **Software Development Engineer** @ [OYO Vacation Homes](https://www.traum-ferienwohnungen.de/) (Germany) _(Nov 2019 - Dec 2020)_ <br>
 Understand and Re-Design the system build around a monolith and breaking them into Micro-Services Architecture.
@@ -20,9 +20,9 @@ Understand and Re-Design the system build around a monolith and breaking them in
 - Have built many APIs and Features which are related to communication(WhatsApp, Email), Data Migration Scripts(Python), etc.
 <br><br>
     
->## 🤓 Technical Skills
+## 🤓 Technical Skills
 
----
+
 
 **Programming and Markup Languages**  
 - C, C++, Core Java, Python, Oracle SQL.
@@ -36,9 +36,9 @@ Understand and Re-Design the system build around a monolith and breaking them in
 - Kibana, ELK, Grafana, Prometheus, AWS, Kubernetes.
 <br><br>
 
->## 🧑‍🎓 Education
+## 🧑‍🎓 Education
 
----
+
 
 **Bachelor of Technology in Computer Science Engineering**<br>
 [Indian Institute of Technology Bhubaneswar.](www.iitbbs.ac.in) - Odhisa _(2014 - 2018)_ <br>
@@ -52,9 +52,9 @@ Sri Chaitanya Junior college. - Vijayawada _(2012 - 2014)_<br>
 Century High Profile School. - Telangana _(Fall 2014)_<br>
 **CGPA:** 9.5/10
 
->## 👨‍🎓 Internship Experience
+## 👨‍🎓 Internship Experience
 
----
+
 
 **WEB APPLICATION DEVELOPER** _(May 2017 - July 2017)_<br>
 3rd year Internship,SIMSAM LLC,Hyderabad<br>
@@ -70,9 +70,9 @@ Worked on Increasing the efficiency of Object Tracking Algorithm Mean Shift Trac
 Seminar Presentation,Mini project.<br>
 Given a presentation on the recent development of IOT in 3rd semester.<br>
 
->## 🧗‍♂️ Projects
+## 🧗‍♂️ Projects
 
----
+
 
 **DESIGN AND IMPLEMENTATION OF A TESTBED FOR RESEARCH ON IOT** _(Autumn, 2017)_<br>
 Final year project.<br>
@@ -88,13 +88,13 @@ Created a prototype for whole sale management database using MYSQL and Web Techn
 Seminar Presentation,Mini project.<br>
 Given a presentation on the recent development of IOT in 3rd semester.<br>
 
->## 🛌 Hobbies
+## 🛌 Hobbies
 
----
+
 
 Photography,Playing badminton,Listening to music etc...<br>
 
->## 💬 Languages
+## 💬 Languages
 
 **Telugu**: Native <br>
 **English**: Proficient <br>
