@@ -1,5 +1,4 @@
-# <center> Swargam Avinash </center>
-_Software Development Engineer based out of Hyderabad, India_ <br>
+_Software Development Engineer from Hyderabad, India_ <br>
 [Email](mailto:avinashswargam.public.as@gmail.com) / [LinkedIn](https://www.linkedin.com/in/swargam-avinash-08287a12a/) / [GitHub](https://github.com/swargamavinash/)
 
 
